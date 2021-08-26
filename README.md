@@ -1,25 +1,26 @@
-<h2> Hey there! I'm Kristen. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hey there! I'm Kristen. <img src="https://i.giphy.com/media/tVZUjgV1iLr3i/giphy.webp" width="50"></h2>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif" width="500"/>
 
-<h3><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me </h3>
+<h3><img src="https://i.giphy.com/media/rkA1VIsYLjl3q/giphy.webp" width="50"> About Me </h3>
 
 - 💜 &nbsp; She/Her
-- 🌱 &nbsp; Currently learning Web Development @Codecademy.
-- 📚 &nbsp; Studying HTML, CSS, and JavaScript.
+- 📚 &nbsp; Currently learning Web Development @Codecademy.
+- 🎓 &nbsp; Long term goal: Change my career.
 - 👀 &nbsp; Interested in digital arts, music, and photography.
-- ✍️ &nbsp; Watching Anime and creating graphic arts as hobbies/side hustles.
-- 💬 &nbsp; Ask me about anything, and you shall receive my answer! :)
-- ☕ &nbsp; “The powers of a man’s mind are directly proportioned to the quantity of coffee he drinks.” – Sir James Mackintosh
+- 📺 &nbsp; Watching anime and creating graphic arts as hobbies/side hustles.
+- 💬 &nbsp; Ask, and you shall receive! :)
+- ⚡ &nbsp; Fun fact: I took AB Multimedia Arts in college for a year. Due to financial difficulties, I shifted to a new course and successfully graduated as an Associate in Hotel & Restaurant Management.
+- 💯 &nbsp; “Our greatest glory is not in never falling, but in rising every time we fall.” —Confucius
 
-<h3><img src="https://i.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.webp" width="50"> Tech Stack</h3>
+<h3><img src="https://i.giphy.com/media/dbTYolkeisetqPhViO/giphy.webp" width="40"> Tech Stack</h3>
 
 - 🌐 &nbsp; HTML | CSS | JavaScript
 - 🔧 &nbsp; Visual Studio code
 - 🖥 &nbsp; Adobe Photoshop
 
-<br>
+<br> 
 
-<h3><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50"> Connect With Me </h3>
+<h3><img src="https://i.giphy.com/media/0zPCvpqtVpsMZySHAe/giphy.webp" width="50"> Connect With Me </h3>
 
 <p align="left">
 &nbsp; <a href="https://twitter.com/hightenn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
@@ -30,4 +31,4 @@
 
 ⭐️ From [devSouvik](https://github.com/devSouvik)
 
-<img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+<img src="https://i.giphy.com/media/de7YjnUgKq5Ta/giphy.webp">
