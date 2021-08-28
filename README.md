@@ -16,7 +16,7 @@
 - 🎓 Long term goal: Change my career.
 - 👀 Interested in digital arts, music, and photography.
 - 📺 Watching anime and creating graphic arts as hobbies/side hustles.
-- 💬 Ask, and you shall receive! :)
+- 💬 Ask, and you shall receive! DMs are open :)
 - ⚡ Fun fact: I took AB Multimedia Arts in college for a year. Due to financial difficulties, I shifted to a new course and successfully graduated as an Associate in Hotel & Restaurant Management.
 - 💯 “Our greatest glory is not in never falling, but in rising every time we fall.” —Confucius
 
