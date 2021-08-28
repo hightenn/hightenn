@@ -12,6 +12,7 @@
 <h3><img src="https://media0.giphy.com/media/gKxniC8PjCF3dhBmgF/giphy.gif?cid=790b761156ab706ffada04c60e28fafeb284f1ce322d0abb&rid=giphy.gif&ct=s" width="50"> About Me </h3>
 
 - 💜 She/Her
+- 💼 Artist/Former Account Executive
 - 📚 Currently learning Web Development <a href="https://www.codecademy.com/" target="_blank">@Codecademy.</a>
 - 🎓 Long term goal: Change my career.
 - 👀 Interested in digital arts, music, and photography.
