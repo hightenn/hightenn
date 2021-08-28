@@ -14,7 +14,6 @@
 - 💜 She/Her
 - 💼 Artist/Former Account Executive
 - 📚 Currently learning Web Development <a href="https://www.codecademy.com/" target="_blank">@Codecademy.</a>
-- 🎓 Long term goal: Change my career.
 - 👀 Interested in digital arts, music, and photography.
 - 🍂 Playing Ukulele, watching anime, creating digital art, and playing games in my spare time.
 - 💬 Ask, and you shall receive! DMs are open :)
