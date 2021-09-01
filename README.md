@@ -15,7 +15,7 @@
 - 💼 Artist/Former Account Executive
 - 📚 Currently learning Web Development <a href="https://www.codecademy.com/" target="_blank">@Codecademy.</a>
 - 👀 Interested in digital arts, music, and photography.
-- 🍂 Playing Ukulele, watching anime, creating digital art, and playing games in my spare time.
+- 🍂 In my spare time: I watch anime, create digital art, play games & ukulele
 - 💬 Ask, and you shall receive! DMs are open :)
 - ⚡ Fun fact: I took AB Multimedia Arts in college for a year. However, I shifted to a new course and successfully graduated as an Associate in Hotel & Restaurant Management.
 - 💯 “Our greatest glory is not in never falling, but in rising every time we fall.” —Confucius
@@ -34,7 +34,7 @@
 &nbsp; <a href="https://twitter.com/hightenn" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/hightenn/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/instagram.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/K75/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:kristensocampo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/50/000000/instagram.png" width="50" /></a>
+&nbsp; <a href="mailto:kristensocampo@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/clouds/100/000000/gmail-new.png" width="50" /></a>
 </p>
 
 <div align="center" style="width:750px; background-color:white; height:120px; overflow:scroll; overflow-x: scroll; overflow-y: hidden;">
