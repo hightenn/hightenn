@@ -17,7 +17,7 @@
 - 👀 Interested in digital arts, music, and photography.
 - 🍂 In my spare time: I watch anime, create digital art, play games & ukulele
 - 💬 Ask, and you shall receive! DMs are open :)
-- ⚡ Fun fact: I took AB Multimedia Arts in college for a year. However, I had to switched course; and successfully I graduated as an Associate in Hotel & Restaurant Management.
+- ⚡ Fun fact: I took AB Multimedia Arts in college for a year. However, I had to switched course; and I successfully graduated as an Associate in Hotel & Restaurant Management.
 - 💯 “Our greatest glory is not in never falling, but in rising every time we fall.” —Confucius
 
 <h3><img src="https://i.giphy.com/media/dbTYolkeisetqPhViO/giphy.webp" width="50"> Tech Stack</h3>
