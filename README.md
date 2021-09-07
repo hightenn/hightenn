@@ -1,6 +1,6 @@
 <h1>
-  <div align="center">
-    <img src="https://thumbs.gfycat.com/DentalKnobbyCub-size_restricted.gif" height="531" width="750" alt="Tetris">
+  <div align="center" height="100%">
+    <img src="https://thumbs.gfycat.com/DentalKnobbyCub-size_restricted.gif" alt="Tetris">
   </div>
 </h1>
 
